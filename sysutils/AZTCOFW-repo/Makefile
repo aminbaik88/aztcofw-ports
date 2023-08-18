@@ -1,6 +1,6 @@
 # $FreeBSD$
 
-PORTNAME=	pfSense-repo
+PORTNAME=	AZTCOFW-repo
 DISTVERSION=	2.7.0
 PORTREVISION=	2
 CATEGORIES=	sysutils
