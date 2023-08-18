@@ -22,7 +22,7 @@ PLIST_FILES=	libexec/pfSense-upgrade \
 
 .include <bsd.port.pre.mk>
 
-RUN_DEPENDS+=	pfSense-repoc>=0:sysutils/AZTCOFW-repoc
+#RUN_DEPENDS+=	pfSense-repoc>=0:sysutils/AZTCOFW-repoc
 
 do-extract:
 	@${MKDIR} ${WRKSRC}
